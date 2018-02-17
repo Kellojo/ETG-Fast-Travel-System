@@ -9,7 +9,7 @@ A script that enables fast travel for Arma 3 (https://arma3.com/) Armaholic page
 
 ![UI](https://i.imgur.com/P0RQejk.jpg)
 
-[Travel "Animation"](https://i.imgur.com/M1KIIRA.jpg)
+![Travel "Animation"](https://i.imgur.com/M1KIIRA.jpg)
 
 ## Installation guide:
 
