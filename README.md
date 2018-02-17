@@ -2,6 +2,15 @@
 A script that enables fast travel for Arma 3 (https://arma3.com/) Armaholic page (http://www.armaholic.com/page.php?id=30222)
 
 
+## Screenshots & Videos
+
+[![Showcase Video](https://img.youtube.com/vi/DTaZlDzel4Y/0.jpg)](https://www.youtube.com/watch?v=DTaZlDzel4Y)
+
+
+![UI](https://i.imgur.com/P0RQejk.jpg)
+
+[Travel "Animation"](https://i.imgur.com/M1KIIRA.jpg)
+
 ## Installation guide:
 
 1. Put the folders "scripts" and "dialogs" into you root mission file!
@@ -21,13 +30,13 @@ A script that enables fast travel for Arma 3 (https://arma3.com/) Armaholic page
 	```
 
 4. Add this code to an action or sth. else where you want the fasttravel dialog to be opend
-```
-	createDialog "ETG_FastTravelSystem_Dialog";
-```
+	```
+		createDialog "ETG_FastTravelSystem_Dialog";
+	```
 or add this action to any object you like...
-```
-	this addAction ["Fast Travel System", {createDialog "ETG_FastTravelSystem_Dialog";}];
-```
+	```
+		this addAction ["Fast Travel System", {createDialog "ETG_FastTravelSystem_Dialog";}];
+	```
 
 ## For this to work in Exile you have to install this too:
 
